@@ -50,5 +50,6 @@ Adding marker files to `.openshift/markers` will have the following effects:
     hot_deploy            Will prevent the apache process from being restarted during
                           build/deployment
 
+
     disable_auto_scaling  Will prevent scalable applications from scaling up 
                           or down according to application load.
